@@ -1,5 +1,8 @@
 ### heihei 😎
 
+![screenshot](https://slhm.no/static/slhm.gif) 
+
+
 <!--
 **Slhm/slhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
